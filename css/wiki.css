@@ -11,8 +11,8 @@ float:right;
 background:#659D32;
 	width: 100%;
 	float: left;
-	margin: 0 0 3em 0;
-	padding: 0;
+	margin: 10;
+	padding: 10;
 	list-style: none; }
 
 .nav li {
