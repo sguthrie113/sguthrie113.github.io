@@ -6,6 +6,12 @@ background:#9CBA7F;
 background:#659D32;
 }
 
+.ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+ } 
+
 .main {
 background:#9c9;
 }
