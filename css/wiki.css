@@ -1,5 +1,10 @@
+.body {
+    background-color: #659D32;
+}
+
 .header {
 background:#9CBA7F;
+float:right;
 }
 
 .nav {
