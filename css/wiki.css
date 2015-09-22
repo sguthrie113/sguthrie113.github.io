@@ -1,9 +1,9 @@
 .header {
-background:#ddd;
+background:#9CBA7F;
 }
 
 .nav {
-background:#c99;
+background:#659D32;
 }
 
 .main {
@@ -11,10 +11,10 @@ background:#9c9;
 }
 
 .sidebar {
-background:#c9c;
+background:#9CBA7F;
 }
 
-#footer {
+.footer {
 background:#cc9;
 }
 
