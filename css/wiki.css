@@ -4,7 +4,7 @@ body {
 
 .header {
 background:#999933;
-float:right;
+margin-right:auto;
 width: 100%;
 }
 
@@ -12,7 +12,7 @@ width: 100%;
 background:#659D32;
 	width: 100%;
 	float: left;
-	margin: 10 10 10;
+	margin-left: auto;
 	padding: 50;
 	list-style: none; }
 
