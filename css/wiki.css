@@ -4,14 +4,14 @@ body {
 
 .header {
 background:#999933;
-float:left;
+float:right;
 width: 100%;
 }
 
 .nav {
 background:#659D32;
 	width: 100%;
-	float: left;
+	float: center;
 	margin: 10 10 10;
 	padding: 10;
 	list-style: none; }
