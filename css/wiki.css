@@ -15,6 +15,8 @@ background:#659D32;
 	padding: 0;
 	list-style: none; }
 
+.nav li {
+	float: left; }
 
 .ul {
      list-style-type: none;
