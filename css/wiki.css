@@ -1,23 +1,29 @@
-#header {
+.header {
 background:#ddd;
 }
-#nav {
+
+.nav {
 background:#c99;
 }
-#main {
+
+.main {
 background:#9c9;
 }
-#sidebar {
+
+.sidebar {
 background:#c9c;
 }
+
 #footer {
 background:#cc9;
 }
+
 #main {
 float:left;
 width:500px;
 background:#9c9;
 }
+
 #sidebar {
 float:right;
 width:250px;
