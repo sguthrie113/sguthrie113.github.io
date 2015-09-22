@@ -18,6 +18,14 @@ background:#659D32;
 
 .nav li {
 	float: left; }
+	
+.content {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 .ul {
      list-style-type: none;
