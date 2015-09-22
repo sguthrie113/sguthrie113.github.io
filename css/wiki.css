@@ -13,3 +13,13 @@ background:#c9c;
 #footer {
 background:#cc9;
 }
+#main {
+float:left;
+width:500px;
+background:#9c9;
+}
+#sidebar {
+float:right;
+width:250px;
+background:#c9c;
+}
