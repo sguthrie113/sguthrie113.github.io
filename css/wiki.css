@@ -1,10 +1,4 @@
-body,
-html {
-margin:0;
-padding:0;
-color:#0000;
-background:#a7a09a;
-}
 h1 {
-  color: orange;    
-}
+  color: navy;
+  margin-left: 20px;
+ }
