@@ -1,0 +1,46 @@
+.container {
+    width: 1080px;
+    margin:0 auto:}
+
+.header h1 {
+    float:left;
+    margin 0 50px 0 30px;
+}
+
+.header {
+    clear:both;
+    padding-bottom: 20px;
+    background: pink;
+}
+
+.header ul {
+    padding-top: 10px;
+}
+
+nav ul li
+{
+display: inline;
+list-style-type: none;
+padding-left: 20px;
+margin-top: 10px;
+
+}
+
+
+.aside
+{float:left;}
+
+.content
+{
+    background-color:darkseagreen;
+    width: 75%:
+    float:left;
+    margin:20px;
+}
+
+.footer
+{
+    background-color: cornflowerblue;
+    padding: 20px;
+    text-align: center;
+}
