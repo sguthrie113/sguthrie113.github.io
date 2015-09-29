@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+line-height: 1.45;
+font-family: "Helvetica", serif;
+color: #FBFBFA;
+background-color: #4f5048;
+width:500px;
+margin:0 auto;
+}
+
+h1 {
+ color: #ECC762;  
+}
+
+h2 {
+     color: #ECC762;  
+
+}
+
+h3 {
+    color: #ECC762;  
+
+}
+
+p {
+   margin-bottom: 1.3em; 
+}
+
