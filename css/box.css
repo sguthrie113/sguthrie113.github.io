@@ -28,15 +28,43 @@ margin-top: 10px;
 
 
 .aside
-{float:left;}
+{
+    width:230px;
+    float:left;
+    text-align: center;
+}
+
+.aside ul {
+    padding: 0;    
+}
+
+.aside ul li {
+    list-style-type:none;
+    padding: 5px 0;    
+}
+
+.content img {
+    float:left;
+    margin: 0 20px;
+}
 
 .content
 {
     background-color:darkseagreen;
     width: 75%:
     float:left;
-    margin:20px;
 }
+
+.top-content {
+    height: 230px;
+    clear:both;
+}
+
+.description {
+    clear:right;
+    padding: 10px 20px 0;
+}
+
 
 .footer
 {
