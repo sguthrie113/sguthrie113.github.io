@@ -6,12 +6,14 @@ body {
 background:#999933;
 clear:right;
 width: 100%;
+margin:0;
 }
 
 .nav {
     text-align: justify;
     min-width: 500px;
     background:green;
+    margin: 0;
 }
 .nav:after {
     content: '';
