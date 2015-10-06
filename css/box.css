@@ -56,7 +56,7 @@ margin-top: 10px;
 .section
 {
     float:left;
-    width:363px;
+    width:248px;
     padding:10px;
     background-color:darkseagreen;
 }
@@ -76,6 +76,7 @@ margin-top: 10px;
 .footer
 {
     background-color: cornflowerblue;
-    padding: 20px;
+    padding: 10px;
+    clear:left;
     text-align: center;
 }
