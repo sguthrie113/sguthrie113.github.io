@@ -30,9 +30,10 @@ margin-top: 10px;
 .aside
 {
     width:230px;
+    height:248px;
     float:left;
     text-align: center;
-    background-color:darkseagreen;
+    background-color:khaki;
 }
 
 
@@ -49,18 +50,20 @@ margin-top: 10px;
 .content
 {
     background-color:darkseagreen;
-    width: 30px:
-    float:left;
+    width: 800px;
 }
 
 .section
 {
     float:left;
-    width:30px;
+    width:363px;
+    padding:10px;
+    background-color:darkseagreen;
 }
 
 .top-content {
     height: 230px;
+    width: 800px;
     clear:both;
 }
 
