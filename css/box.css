@@ -29,8 +29,8 @@ margin-top: 10px;
 
 .aside
 {
-    width:230px;
-    height:248px;
+    width:280px;
+    height:266px;
     float:left;
     text-align: center;
     background-color:khaki;
@@ -39,7 +39,7 @@ margin-top: 10px;
 
 .aside ul li {
     list-style-type:none;
-    padding: 5px 0;    
+    padding: 5px 0;  
 }
 
 .content img {
