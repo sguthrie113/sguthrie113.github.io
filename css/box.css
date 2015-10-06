@@ -53,6 +53,12 @@ margin-top: 10px;
     float:left;
 }
 
+.section
+{
+    float:left;
+    width:30px;
+}
+
 .top-content {
     height: 230px;
     clear:both;
