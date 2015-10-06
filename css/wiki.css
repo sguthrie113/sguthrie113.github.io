@@ -8,6 +8,19 @@ clear:right;
 width: 100%;
 }
 
+.nav {
+    text-align: justify;
+    min-width: 500px;
+}
+.nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+.nav li {
+    display: inline-block;
+}
+
 .nav li {
 	float: left; }
 
