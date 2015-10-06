@@ -28,6 +28,7 @@ background:#659D32;
 
 
 .ul {
+     display:inline;
      list-style-type: none;
      margin: 0;
      padding: 0;
@@ -35,6 +36,8 @@ background:#659D32;
 
 .main {
 background:#9c9;
+float:left;
+width:500px;
 }
 
 .sidebar {
@@ -44,4 +47,5 @@ float:right;
 
 .footer {
 background:#cc9;
+clear:both;
 }
