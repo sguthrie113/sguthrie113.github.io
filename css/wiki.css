@@ -4,7 +4,7 @@ body {
 
 .header {
 background:#999933;
-float:left;
+clear:right;
 width: 100%;
 }
 
