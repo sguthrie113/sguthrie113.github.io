@@ -11,9 +11,8 @@ margin:0;
 
 .nav {
     text-align: justify;
-    min-width: 500px;
+    width: 100%;
     background:green;
-    margin: 0;
 }
 .nav:after {
     content: '';
@@ -31,10 +30,11 @@ margin:0;
 
 
 .ul {
-     display:inline;
+     display: inline;
      list-style-type: none;
      margin: 0;
      padding: 0;
+     width:100%;
  } 
 
 .main {
