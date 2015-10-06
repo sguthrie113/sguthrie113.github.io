@@ -11,6 +11,7 @@ width: 100%;
 .nav {
     text-align: justify;
     min-width: 500px;
+    background:green;
 }
 .nav:after {
     content: '';
