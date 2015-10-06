@@ -8,14 +8,16 @@ float:right;
 width: 100%;
 }
 
-.nav {
-background:#659D32;
-	width: 100%;
-	float: left;
-	list-style: none; }
 
+	
 .nav li {
-	float: left; }
+    display: table-cell;
+    height: 87px;
+    width: 16.666666667%;
+    line-height: 87px;
+    text-align: center;
+    background: ##659D32;
+    white-space: nowrap;
 	
 .content {
   width: 500px;
