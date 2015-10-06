@@ -16,15 +16,8 @@ width: 100%;
 .nav:after {
     content: '';
     display: inline-block;
-    width: 100%;
+    float: left;
 }
-.nav li {
-    display: inline-block;
-}
-
-.nav li {
-	float: left; }
-
 
 	
 .content {
