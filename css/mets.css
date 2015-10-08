@@ -1,0 +1,45 @@
+body {
+    background: #F8F8E6;
+    color: black;
+    	font-family: 'Verdana';
+
+    }
+
+.main-content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.u {
+    text-decoration: underline;
+    color: red;
+}
+
+a {
+color:#080079;
+}
+
+.mets {
+    background: #FFC966;
+}
+
+.dodgers {
+    background: #99b0e0;
+
+}
+
+.cubs {
+    
+}
+
+.pittsburgh {
+    background: #FFFF99;
+}
+
+.cardinals {
+    background: #ff6c6c;
+}
+
+.table-container {
+    background: #E5E5FF;
+}
