@@ -3,9 +3,10 @@ body {
 }
 
 .header {
-background:#999933;
-clear:left;
+background:darkkhaki;
+float:right;
 width: 100%;
+text-align:right;
 margin:0;
 }
 
@@ -26,6 +27,8 @@ margin:0;
      padding: 0;
      width:100%;
  } 
+ 
+
 
 	
 .content {
@@ -38,7 +41,9 @@ margin:0;
 }
 
 
-
+.li {
+	float:left;
+}
 
 .main {
 background:#9c9;
