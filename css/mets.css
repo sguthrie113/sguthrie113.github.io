@@ -20,11 +20,12 @@ color:#080079;
 }
 
 .mets {
-    background: #FFC966;
+    background: orange;
 }
 
 .dodgers {
-    background: #99b0e0;
+    background: blue;
+    color:white;
 
 }
 
@@ -33,13 +34,14 @@ color:#080079;
 }
 
 .pittsburgh {
-    background: #FFFF99;
+    background: yellow;
 }
 
 .cardinals {
-    background: #ff6c6c;
+    background: red;
 }
 
 .table-container {
-    background: #E5E5FF;
+    background: black;
+    color:white;
 }
